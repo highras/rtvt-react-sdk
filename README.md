@@ -1,6 +1,6 @@
-# web-react-sdk 使用文档 #
+# rtvt-react-sdk 使用文档 #
 
-#### 安装uniapp依赖 ####
+#### 安装react依赖 ####
 ```html
 npm install buffer --save
 npm install msgpack-lite --save
